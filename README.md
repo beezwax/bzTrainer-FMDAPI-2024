@@ -4,7 +4,8 @@
 - Explore FileMaker 2024's (v21.x) Data API (FM DAPI) using REST and cURL with this tutorial file
 - packaged as bzTrainer-FMDAPI-2024
 - versions of this tutorial for previous FileMaker releases are available separately
-- see the related blog post(s) for detailed coverage of this topic
+- see the related blog post(s) for detailed coverage of this topic:
+      https://blog.beezwax.net/explore-using-rest-and-curl-with-filemaker-2024-data-api/
 
 ## Introduction
 Get started exploring FileMaker's Data API (DAPI) using REST and cURL.
@@ -13,7 +14,8 @@ This is a tutorial file designed to help you get started in your understanding o
 
 This file sends REST requests to itself, and works as a demo and tutorial for FM's DAPI functionality. Check out the scripts, especially `execute rest request` and study the results of requests as they appear in the fields on the right side of the UI.
 
-This file also covers the `Execute FileMaker Data API` script step. Check out `execute data api` as an alternative way to query the Data API.
+This file also covers the `Execute FileMaker Data API` script step. 
+Also check out `execute data api` as an alternative way to query the Data API.
 
 ## Quickstart
 This tutorial file should be hosted on FileMaker Server 2024 (v21.x or later) for full functionality.
